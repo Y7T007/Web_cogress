@@ -13021,7 +13021,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 .row{
     margin-bottom: 50px;
 }
-
+.list-group-item{
+    border-radius: 5px;
+}
 .download_btn{
     font-weight: bold;
     padding: 20px;
