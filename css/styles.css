@@ -13039,3 +13039,12 @@ section#contact form#contactForm :-ms-input-placeholder {
     color: #8ff2ff;
 ;
 }
+
+.main_titlee{
+    word-spacing: 25px;line-height: 60px;font-size: 40px;
+}
+@media only screen and (max-width: 767px){
+    .main_titlee{
+        font-size: 5px;
+    }
+}
